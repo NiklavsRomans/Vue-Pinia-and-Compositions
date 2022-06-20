@@ -1,0 +1,21 @@
+.films-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 0px 100px;
+    gap: 50px;
+
+}
+
+.select__order {
+    display: flex;
+    justify-content: end;
+    padding-top: 50px;
+    margin-right: 230px;
+}
+
+.select {
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.295);
+    color: white;
+    border: none;
+}

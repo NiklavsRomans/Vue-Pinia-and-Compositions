@@ -1,0 +1,26 @@
+.character__container {
+    margin: 0 auto;
+    background-color: #c644468f;
+    color: rgb(221, 217, 217);
+    max-width: 400px;
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    width: 100%;
+    border-radius: 8px;
+}
+
+.character__container--box {
+    padding: 20px;
+}
+
+
+.character__name {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.character__info {
+    padding: 10px;
+    font-size: 16px;
+    border-bottom:  1px solid rgba(0, 0, 0, 0.479);
+}

@@ -1,0 +1,28 @@
+.film__container {
+    margin: 0 auto;
+    max-width: 500px;
+    width: 100%;
+    background-color: #c644468f;
+    color: rgb(0, 0, 0);
+    border: 2px solid rgba(0, 0, 0, 0.158);
+    border-radius: 8px;
+}
+
+.film__container--box {
+    padding: 20px;
+}
+
+
+.film__title {
+    text-align: center;
+    padding: 20px;
+    font-size: 30px;
+    color: rgb(253, 163, 163);
+}
+
+.film__info {
+    padding: 10px;
+    font-size: 16px;
+    border-bottom:  1px solid rgba(0, 0, 0, 0.479);
+
+}
